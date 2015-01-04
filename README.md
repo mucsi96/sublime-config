@@ -1,6 +1,14 @@
 # Sublime Configuration
 
-This is my [Sublime Text 3](http://www.sublimetext.com/3) user directory. To use this, clone the repository into the `User` directory in the packages folder (`C:\Users\<USER_NAME>\AppData\Roaming\Sublime Text 3\Packages` on Windows). Install [Package Control](http://wbond.net/sublime_packages/package_control) and run `Package Control: Upgrade/Overwrite All Packages` from the command pallete (`Ctrl+Shift+P`). This will install all the packages.
+This is my [Sublime Text 3](http://www.sublimetext.com/3) user directory. To use this, clone the repository into the `User` directory in the packages folder (`C:\Users\<USER_NAME>\AppData\Roaming\Sublime Text 3\Packages` on Windows; `~/.config/sublime-text-3/Packages` on Linux).
+
+```
+cd ~/.config/sublime-text-3/Packages
+rm -r User
+git clone git@github.com:mucsi96/sublime-config.git User
+```
+
+ Install [Package Control](http://wbond.net/sublime_packages/package_control) and run `Package Control: Upgrade/Overwrite All Packages` from the command pallete (`Ctrl+Shift+P`). This will install all the packages.
 
 ## Packages
 
