@@ -1,6 +1,6 @@
 {
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"default_line_ending": "unix",
 	"ensure_newline_at_eof_on_save": true,
 	"font_options":
@@ -8,6 +8,7 @@
 		"bold"
 	],
 	"font_size": 15,
+	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
@@ -19,6 +20,5 @@
 	"theme": "Centurion.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"use_tab_stops": true,
-	"highlight_line": true
+	"use_tab_stops": true
 }
