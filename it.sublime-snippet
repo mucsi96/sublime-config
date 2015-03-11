@@ -1,7 +1,10 @@
 <snippet>
 	<content><![CDATA[
 it('should ${1:...}', function() {
+    // GIVEN
 	$2
+    // WHEN
+    // THEN
 });]]>
 	</content>
 	<tabTrigger><![CDATA[it]]></tabTrigger>

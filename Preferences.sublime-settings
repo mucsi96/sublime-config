@@ -14,9 +14,11 @@
 		"Vintage"
 	],
 	"save_on_focus_lost": true,
+	"show_tab_close_buttons": false,
 	"tab_size": 4,
 	"theme": "Centurion.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"use_tab_stops": true
+	"use_tab_stops": true,
+	"highlight_line": true
 }

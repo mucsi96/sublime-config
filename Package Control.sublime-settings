@@ -12,6 +12,7 @@
 	[
 		"All Autocomplete",
 		"Autoprefixer",
+		"BracketHighlighter",
 		"Build Next",
 		"Emmet",
 		"Gherkin (Cucumber) Formatter",
@@ -25,10 +26,7 @@
 		"SideBarEnhancements",
 		"SnippetMaker",
 		"Soy",
-		"SublimeLinter",
-		"SublimeLinter-jshint",
 		"SublimeOnSaveBuild",
-		"Terminal",
 		"Theme - Centurion"
 	]
 }
